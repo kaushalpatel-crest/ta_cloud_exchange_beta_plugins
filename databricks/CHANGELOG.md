@@ -2,3 +2,4 @@
 ## Added
 - Initial release.
 - Log Types: Alerts, Events, Webtx.
+- Format Type: JSON.
